@@ -1,0 +1,9 @@
+#Desjohn Kitchen
+#I love to cook
+print("D D D D    K       K")
+print("D       D  K     K")
+print("D       D  K   K")
+print("D       D  K K")
+print("D       D  K   K")
+print("D       D  K     K")
+print("D D D D    K       K")
